@@ -1,0 +1,42 @@
+{
+    "name": "i9w3b/faker",
+    "description": "Pacote Laravel que gera dados falsos.",
+    "keywords": ["i9w3b", "laravel", "package", "dev", "faker"],
+    "homepage": "https://github.com/i9w3b/faker",
+    "license": "MIT",
+    "authors": [{
+        "name": "Marcelo Sena",
+        "email": "suportemarcelosena@gmail.com",
+        "homepage": "https://github.com/i9w3b",
+        "role": "Developer"
+    }],
+    "require": {
+        "php": ">=7.2",
+        "fzaninotto/faker": "^1.9"
+    },
+    "require-dev": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "I9W3b\\Faker\\FakerServiceProvider"
+            ],
+            "aliases": {},
+            "branch-alias": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "I9W3b\\Faker\\": "src"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    },
+    "scripts": {},
+    "config": {
+        "sort-packages": true
+    }
+}
