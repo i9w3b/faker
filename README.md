@@ -1,5 +1,3 @@
-# Faker
-
 <p align="center" class="text-center" style="text-align:center;"><a href="https://github.com/i9w3b" target="_blank"><img src="https://cdn.jsdelivr.net/gh/i9w3b/cdn/img/logo-200px.png" width="200"></a></p>
 <p align="center" class="text-center" style="text-align:center;">
 <a href="https://github.com/i9w3b/faker/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/i9w3b/faker" alt="License"></a>
@@ -8,6 +6,8 @@
 <a href="https://github.com/i9w3b/faker/releases"><img src="https://img.shields.io/github/v/release/i9w3b/faker" alt="GitHub Release"></a>
 <a href="https://packagist.org/packages/i9w3b/faker"><img alt="Packagist Downloads" src="https://img.shields.io/packagist/dt/i9w3b/faker"></a>
 </p>
+
+# Faker
 
 Helper para `fzaninotto/faker` em pt_BR.
 
